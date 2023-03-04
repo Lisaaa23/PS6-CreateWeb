@@ -1,5 +1,4 @@
-# PS6-CreateWeb
+# User Documentation
 
-## Hello friend
 
-###  https://lisa233.shinyapps.io/PS6_CreateWEB/
+###  Here is the link to the project: https://lisa233.shinyapps.io/PS6_CreateWEB/
