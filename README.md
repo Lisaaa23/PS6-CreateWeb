@@ -9,3 +9,5 @@ The Plot page: this page shows a widget on the left that tells the audience to c
 The Table page: This page tells you what each specific species fall under which of the four major groups. Once the audience select a major group, all the data about the species falling under this group will appear as a table to the right. Above the table, there is also a calculation of increased total threatened species of your choice from 2000 to 2022.
 
 ###  Here is the link to the project: https://lisa233.shinyapps.io/PS6_CreateWEB/
+
+PS: This project took me about two to three days with I'm not sure how many hours.
